@@ -17,7 +17,7 @@
 # for city in cities:
 #     print(city)
 
-imelda = "More Mayhen", "Imelda May", "2011", (1, "pulling the rug", (2, "psycho"), (3, "mayhem" ), (4, "kentish town waltz"))
+imelda = "More Mayhem", "Imelda May", "2011", (1, "pulling the rug", (2, "psycho"), (3, "mayhem" ), (4, "kentish town waltz"))
 
 
 with open("imelda3.txt", 'w')as imelda_file:
